@@ -20,9 +20,9 @@ void setup() {
   myCursor=new MyCursor();
   myCursor.showcursor=false;
   directories=new Directory[3];
-  directories[0]=new Directory(100, 100, 500, 250, "Storage 1 at local PC");
-  directories[1]=new Directory(100, 600, 500, 250, "Storage 2 at local PC");
-  directories[2]=new Directory(900, 100, 500, 750, "Storage 3 at remote\nworkstation");
+  directories[0]=new Directory(100, 100, 500, 250, "Directory 1 at local PC");
+  directories[1]=new Directory(100, 600, 500, 250, "Directory 2 at local PC");
+  directories[2]=new Directory(900, 100, 500, 750, "Directory 3 at remote\nworkstation");
   files=new File[3];
   files[0]=new File(120,120,100,100,"Small\nFile\n1MB",1);
   files[1]=new File(240,120,120,120,"Medium\nFile\n2GB",2);
