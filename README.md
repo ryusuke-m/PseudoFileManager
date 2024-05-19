@@ -4,6 +4,4 @@ HCIの授業で作った簡単なデモ．Pseudo-Hapticsを用いてファイル
 実行方法
 Processing4を用いて作成しています．</br>Processingがインストールされている場合はcloneしたファイルをそのまま開いて編集/実行ができます．
 
-Procesingがインストールされていな場合はwindows-amd64またはlinux-amd64ディレクトリ内の実行可能ファイルを実行してください．MacOSの場合は実行できません．
-
 Processing内でjava.awt.Robotをインポートしています．環境によってはここで問題が起こり実行できない可能性があります．
