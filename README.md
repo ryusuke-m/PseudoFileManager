@@ -1,0 +1,2 @@
+# PseudoFileManager
+HCIの授業で作った簡単なデモ．Pseudo-Hapticsを用いてファイルのコピーにかかる時間を重量感で提示
